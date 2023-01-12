@@ -1,0 +1,11 @@
+Address,Write Function,Read Function
+0xf000,Not Used,Not Used
+0xf001,adds_to_buffer,Not Used
+0xf002,Not Used,Not Used
+0xf003,Not Used,Not Used
+0xf004,Not Used,send_input
+0xf005,Not Used,Not Used
+0xf006,Not Used,Not Used
+0xf007,Not Used,Not Used
+0xf008,Not Used,Not Used
+0xf009,Not Used,Not Used

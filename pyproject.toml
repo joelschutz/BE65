@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "be65"
+version = "0.1.0"
+description = ""
+authors = ["joelschutz <joeymarley@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+ipdb = "^0.13.7"
+numpy = "^1.20.1"
+pyo = "^1.0.3"
+py65 = "^1.1.0"
+pygame = "^2.1.2"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

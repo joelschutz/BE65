@@ -1,0 +1,11 @@
+Address,Write Function,Read Function
+0xf010,Not Used,Not Used
+0xf011,get_file_name,Not Used
+0xf012,store_file_data,get_file_data
+0xf013,get_drive_command,Not Used
+0xf014,Not Used,Not Used
+0xf015,Not Used,Not Used
+0xf016,Not Used,Not Used
+0xf017,Not Used,Not Used
+0xf018,Not Used,Not Used
+0xf019,Not Used,Not Used
